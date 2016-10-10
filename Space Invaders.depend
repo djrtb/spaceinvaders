@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1475520106 source:c:\users\dj\desktop\space invaders\spaceinvaders.cpp
+	<graphics.h>
+	<math.h>
+	<conio.h>
+	<sstream>
+	<iostream>
+	<vector>
+	<iterator>
+	<Points.h>
+	<Triangle.h>
+	<vector>
+	<Bullet.h>
+	<Alien.h>
+
+1473969456 c:\users\dj\desktop\space invaders\include\points.h
+
+1474016691 source:c:\users\dj\desktop\space invaders\src\points.cpp
+	"Points.h"
+
+1473968725 source:c:\users\dj\desktop\space invaders\src\triangle.cpp
+	"Triangle.h"
+
+1474465607 c:\users\dj\desktop\space invaders\include\triangle.h
+	<Points.h>
+	<graphics.h>
+
+1475512467 source:c:\users\dj\desktop\space invaders\src\bullet.cpp
+	"Bullet.h"
+
+1475512479 c:\users\dj\desktop\space invaders\include\bullet.h
+	<graphics.h>
+	<Points.h>
+
+1475212180 source:c:\users\dj\desktop\space invaders\src\alien.cpp
+	"Alien.h"
+
+1475473920 c:\users\dj\desktop\space invaders\include\alien.h
+	<Points.h>
+	<Triangle.h>
+
